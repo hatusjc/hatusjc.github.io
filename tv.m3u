@@ -1,82 +1,87 @@
 #EXTM3U
-# BR_RAPIDA_v3
-# PT-BR; foco em velocidade; testado a partir de Portugal em 2026-09-17.
-# Sem streams Pluto/jmp2 problemáticos.
+# BR_RAPIDA_v4
+# Curadoria PT-BR; velocidade primeiro; sem crime/policial, terror, pesca, notícias, esportes ou infantil pré-escolar.
+# Ordem e numeração agrupadas por categoria.
+# Validado em Portugal em 2026-09-17: manifesto + variante + primeiro segmento.
 
-# ===== GRANDES ESTÚDIOS | FILMES =====
-#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Cinema
-https://3d51ba4c6dea4941b5e1ca10a471504c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Clássicos
+# ===== 01 | Grandes Estúdios e Filmes =====
+#EXTINF:-1 tvg-chno="1" tvg-name="Sony One Cinema" group-title="01 | Grandes Estúdios e Filmes",Sony One Cinema
+https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-name="Sony One Clássicos" group-title="01 | Grandes Estúdios e Filmes",Sony One Clássicos
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Emoções
-https://1bc1c9c406cd46579d83a6c41b2036ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneEmocoes/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios | Filmes",MovieSphere Brasil - Lionsgate
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-# ===== FILMES | AÇÃO E AVENTURA =====
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Runtime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Adrenalina Pura TV
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c44c88d5bb1ba466089d9/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Ação Total TV
+#EXTINF:-1 tvg-chno="3" tvg-name="Sony One Emoções" group-title="01 | Grandes Estúdios e Filmes",Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-name="MovieSphere Brasil — Lionsgate" group-title="01 | Grandes Estúdios e Filmes",MovieSphere Brasil — Lionsgate
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-name="Filmelier TV" group-title="01 | Grandes Estúdios e Filmes",Filmelier TV
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-name="Filmelier Esperança" group-title="01 | Grandes Estúdios e Filmes",Filmelier Esperança
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-name="Filmelier Vida Real" group-title="01 | Grandes Estúdios e Filmes",Filmelier Vida Real
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-name="MyTime Movie Network" group-title="01 | Grandes Estúdios e Filmes",MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-name="CINDIE Lite" group-title="01 | Grandes Estúdios e Filmes",CINDIE Lite
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-name="Runtime TV e Filmes" group-title="01 | Grandes Estúdios e Filmes",Runtime TV e Filmes
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+# ===== 02 | Ação, Aventura e Faroeste =====
+#EXTINF:-1 tvg-chno="11" tvg-name="Runtime Ação" group-title="02 | Ação, Aventura e Faroeste",Runtime Ação
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-name="Ação Total TV" group-title="02 | Ação, Aventura e Faroeste",Ação Total TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Runtime TV e Filmes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Filmelier TV
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",CINDIE Lite
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Ação e Aventura",Grjngo Faroeste
-https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8
-# ===== FILMES | COMÉDIA E FAMÍLIA =====
-#EXTINF:-1 group-title="Filmes | Comédia e Família",Runtime Comédia
+#EXTINF:-1 tvg-chno="13" tvg-name="Runtime Comédia" group-title="02 | Ação, Aventura e Faroeste",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="Filmes | Comédia e Família",Runtime Família
+#EXTINF:-1 tvg-chno="14" tvg-name="Runtime Família" group-title="02 | Ação, Aventura e Faroeste",Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-# ===== FILMES | ROMANCE E DRAMA =====
-#EXTINF:-1 group-title="Filmes | Romance e Drama",Runtime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Paixão
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7ca4eafcd6d46528c96254bc06836f5/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Esperança
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d8c82ef3962a4866bbff81317936d8cf/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Vida Real
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/565cfbea4dd84fe9af37cf67e9036de7/playlist.m3u8
-#EXTINF:-1 group-title="Filmes | Romance e Drama",Romance Channel
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-# ===== HERÓIS | FICÇÃO | FANTASIA =====
-#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Z Nation PT-BR
-https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884609
-#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Andromeda
+#EXTINF:-1 tvg-chno="15" tvg-name="Western Bound em Português" group-title="02 | Ação, Aventura e Faroeste",Western Bound em Português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16614
+#EXTINF:-1 tvg-chno="16" tvg-name="Grjngo Filmes de Faroeste" group-title="02 | Ação, Aventura e Faroeste",Grjngo Filmes de Faroeste
+https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
+# ===== 03 | Ficção Científica e Fantasia =====
+#EXTINF:-1 tvg-chno="17" tvg-name="Andromeda" group-title="03 | Ficção Científica e Fantasia",Andromeda
 https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
-#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Runtime CinEspanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Medo TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Adrenalina Pura Halloween
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
-# ===== DOCUMENTÁRIOS | CIÊNCIA E CULTURA =====
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Manual do Mundo
+#EXTINF:-1 tvg-chno="18" tvg-name="O Homem que Veio do Céu" group-title="03 | Ficção Científica e Fantasia",O Homem que Veio do Céu
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876017/hls/master.m3u8?ads.xumo_channelId=88876017
+#EXTINF:-1 tvg-chno="19" tvg-name="Highway To Heaven Brasil" group-title="03 | Ficção Científica e Fantasia",Highway To Heaven Brasil
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992533&ads.xumo_streamId=99992533&ads.channelId=99992533
+# ===== 04 | Séries, Sitcoms e Clássicos =====
+#EXTINF:-1 tvg-chno="20" tvg-name="Mr. Bean — Live Action" group-title="04 | Séries, Sitcoms e Clássicos",Mr. Bean — Live Action
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-name="Malhação Fast" group-title="04 | Séries, Sitcoms e Clássicos",Malhação Fast
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-name="Just for Laughs Gags" group-title="04 | Séries, Sitcoms e Clássicos",Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+# ===== 05 | Animação e Clássicos =====
+#EXTINF:-1 tvg-chno="23" tvg-name="Mr. Bean Animated" group-title="05 | Animação e Clássicos",Mr. Bean Animated
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-name="Sonic" group-title="05 | Animação e Clássicos",Sonic
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
+#EXTINF:-1 tvg-chno="25" tvg-name="Inspetor Bugiganga" group-title="05 | Animação e Clássicos",Inspetor Bugiganga
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
+# ===== 06 | Ciência, História e Conhecimento =====
+#EXTINF:-1 tvg-chno="26" tvg-name="Mark Rober TV" group-title="06 | Ciência, História e Conhecimento",Mark Rober TV
+https://pb-slu3sr0tscoho.akamaized.net/MarkRoberTV.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-name="Manual do Mundo" group-title="06 | Ciência, História e Conhecimento",Manual do Mundo
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cb18a3c3c72d4dd098bd37ee45124cfe/playlist.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Curta! Humanidades
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Curta! Música & Artes
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Space Today
+#EXTINF:-1 tvg-chno="28" tvg-name="Space Today" group-title="06 | Ciência, História e Conhecimento",Space Today
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Cultne.tv
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/02b9186bdf434d889ccb380a153ed7ba/playlist.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Canal Educação
+#EXTINF:-1 tvg-chno="29" tvg-name="Royalworld — Nobreza e Dinastias" group-title="06 | Ciência, História e Conhecimento",Royalworld — Nobreza e Dinastias
+https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-name="Cultne.tv" group-title="06 | Ciência, História e Conhecimento",Cultne.tv
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-name="Ideias Incríveis" group-title="06 | Ciência, História e Conhecimento",Ideias Incríveis
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-name="Canal Educação" group-title="06 | Ciência, História e Conhecimento",Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Documentários | Ciência e Cultura",TV Cultura
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d6701eb61814b0687c392a010ac0db7/playlist.m3u8
-# ===== DOCUMENTÁRIOS | NATUREZA E VIAGEM =====
-#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Tastemade Viagem
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5d9c1ecd70034b688282e25cad84a384/playlist.m3u8
-#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Nature Time
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
-#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Travel Plus
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários | Natureza e Viagem",TV da Pesca
-https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
-#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Vambora Channel
+#EXTINF:-1 tvg-chno="33" tvg-name="TV Cultura" group-title="06 | Ciência, História e Conhecimento",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-name="Sony One Shark Tank Brasil" group-title="06 | Ciência, História e Conhecimento",Sony One Shark Tank Brasil
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+# ===== 07 | Natureza e Viagens =====
+#EXTINF:-1 tvg-chno="35" tvg-name="Stingray Naturescape" group-title="07 | Natureza e Viagens",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-name="Tastemade Viagem" group-title="07 | Natureza e Viagens",Tastemade Viagem
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-name="Vambora Channel" group-title="07 | Natureza e Viagens",Vambora Channel
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
