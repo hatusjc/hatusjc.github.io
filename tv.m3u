@@ -1,87 +1,212 @@
 #EXTM3U
-# BR_RAPIDA_v4
-# Curadoria PT-BR; velocidade primeiro; sem crime/policial, terror, pesca, notícias, esportes ou infantil pré-escolar.
-# Ordem e numeração agrupadas por categoria.
-# Validado em Portugal em 2026-09-17: manifesto + variante + primeiro segmento.
-
-# ===== 01 | Grandes Estúdios e Filmes =====
-#EXTINF:-1 tvg-chno="1" tvg-name="Sony One Cinema" group-title="01 | Grandes Estúdios e Filmes",Sony One Cinema
-https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-name="Sony One Clássicos" group-title="01 | Grandes Estúdios e Filmes",Sony One Clássicos
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-name="Sony One Emoções" group-title="01 | Grandes Estúdios e Filmes",Sony One Emoções
-https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-name="MovieSphere Brasil — Lionsgate" group-title="01 | Grandes Estúdios e Filmes",MovieSphere Brasil — Lionsgate
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-name="Filmelier TV" group-title="01 | Grandes Estúdios e Filmes",Filmelier TV
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-name="Filmelier Esperança" group-title="01 | Grandes Estúdios e Filmes",Filmelier Esperança
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-name="Filmelier Vida Real" group-title="01 | Grandes Estúdios e Filmes",Filmelier Vida Real
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-name="MyTime Movie Network" group-title="01 | Grandes Estúdios e Filmes",MyTime Movie Network
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-name="CINDIE Lite" group-title="01 | Grandes Estúdios e Filmes",CINDIE Lite
+# BR_RAPIDA_v5
+# PT-BR | 100+ canais | testados até primeiro segmento a partir de Portugal
+# Atualizado: 2026-09-17
+#EXTINF:-1 tvg-chno="1" group-title="01 Filmes e Grandes Estúdios",001 - Charlie Silent Movies
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="01 Filmes e Grandes Estúdios",002 - CINDIE Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-name="Runtime TV e Filmes" group-title="01 | Grandes Estúdios e Filmes",Runtime TV e Filmes
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-# ===== 02 | Ação, Aventura e Faroeste =====
-#EXTINF:-1 tvg-chno="11" tvg-name="Runtime Ação" group-title="02 | Ação, Aventura e Faroeste",Runtime Ação
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-name="Ação Total TV" group-title="02 | Ação, Aventura e Faroeste",Ação Total TV
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-name="Runtime Comédia" group-title="02 | Ação, Aventura e Faroeste",Runtime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-chno="14" tvg-name="Runtime Família" group-title="02 | Ação, Aventura e Faroeste",Runtime Família
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 tvg-chno="15" tvg-name="Western Bound em Português" group-title="02 | Ação, Aventura e Faroeste",Western Bound em Português
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16614
-#EXTINF:-1 tvg-chno="16" tvg-name="Grjngo Filmes de Faroeste" group-title="02 | Ação, Aventura e Faroeste",Grjngo Filmes de Faroeste
+#EXTINF:-1 tvg-chno="3" group-title="01 Filmes e Grandes Estúdios",003 - CINDIE TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission
+#EXTINF:-1 tvg-chno="4" group-title="01 Filmes e Grandes Estúdios",004 - Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="01 Filmes e Grandes Estúdios",005 - Filmelier Esperança
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierEsperanca_BR/FilmelierEsperanca.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="01 Filmes e Grandes Estúdios",006 - Filmelier TV
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/Filmelier_TV.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="01 Filmes e Grandes Estúdios",007 - Filmelier Vida Real
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/SofaDigital/FilmelierVidaReal_BR/FilmelierVidaReal.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="01 Filmes e Grandes Estúdios",008 - Grjngo Brasil
+https://amogonetworx-grjngo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="01 Filmes e Grandes Estúdios",009 - Grjngo Filmes de Faroeste
 https://cc-4dvoxbmwicuqr.akamaized.net/playlist.m3u8
-# ===== 03 | Ficção Científica e Fantasia =====
-#EXTINF:-1 tvg-chno="17" tvg-name="Andromeda" group-title="03 | Ficção Científica e Fantasia",Andromeda
-https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
-#EXTINF:-1 tvg-chno="18" tvg-name="O Homem que Veio do Céu" group-title="03 | Ficção Científica e Fantasia",O Homem que Veio do Céu
-https://d1si3n1st4nkgb.cloudfront.net/10000/88876017/hls/master.m3u8?ads.xumo_channelId=88876017
-#EXTINF:-1 tvg-chno="19" tvg-name="Highway To Heaven Brasil" group-title="03 | Ficção Científica e Fantasia",Highway To Heaven Brasil
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992533&ads.xumo_streamId=99992533&ads.channelId=99992533
-# ===== 04 | Séries, Sitcoms e Clássicos =====
-#EXTINF:-1 tvg-chno="20" tvg-name="Mr. Bean — Live Action" group-title="04 | Séries, Sitcoms e Clássicos",Mr. Bean — Live Action
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-name="Malhação Fast" group-title="04 | Séries, Sitcoms e Clássicos",Malhação Fast
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-name="Just for Laughs Gags" group-title="04 | Séries, Sitcoms e Clássicos",Just for Laughs Gags
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-# ===== 05 | Animação e Clássicos =====
-#EXTINF:-1 tvg-chno="23" tvg-name="Mr. Bean Animated" group-title="05 | Animação e Clássicos",Mr. Bean Animated
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-name="Sonic" group-title="05 | Animação e Clássicos",Sonic
-https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
-#EXTINF:-1 tvg-chno="25" tvg-name="Inspetor Bugiganga" group-title="05 | Animação e Clássicos",Inspetor Bugiganga
-https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
-# ===== 06 | Ciência, História e Conhecimento =====
-#EXTINF:-1 tvg-chno="26" tvg-name="Mark Rober TV" group-title="06 | Ciência, História e Conhecimento",Mark Rober TV
-https://pb-slu3sr0tscoho.akamaized.net/MarkRoberTV.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-name="Manual do Mundo" group-title="06 | Ciência, História e Conhecimento",Manual do Mundo
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cb18a3c3c72d4dd098bd37ee45124cfe/playlist.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-name="Space Today" group-title="06 | Ciência, História e Conhecimento",Space Today
-https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-name="Royalworld — Nobreza e Dinastias" group-title="06 | Ciência, História e Conhecimento",Royalworld — Nobreza e Dinastias
-https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-name="Cultne.tv" group-title="06 | Ciência, História e Conhecimento",Cultne.tv
-https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-name="Ideias Incríveis" group-title="06 | Ciência, História e Conhecimento",Ideias Incríveis
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-name="Canal Educação" group-title="06 | Ciência, História e Conhecimento",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-name="TV Cultura" group-title="06 | Ciência, História e Conhecimento",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-name="Sony One Shark Tank Brasil" group-title="06 | Ciência, História e Conhecimento",Sony One Shark Tank Brasil
+#EXTINF:-1 tvg-chno="10" group-title="01 Filmes e Grandes Estúdios",010 - MovieSphere Brasil — Lionsgate
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="01 Filmes e Grandes Estúdios",011 - MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="01 Filmes e Grandes Estúdios",012 - Runtime Ação
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="01 Filmes e Grandes Estúdios",013 - Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-chno="14" group-title="01 Filmes e Grandes Estúdios",014 - Runtime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 tvg-chno="15" group-title="01 Filmes e Grandes Estúdios",015 - Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11828&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5
+#EXTINF:-1 tvg-chno="16" group-title="01 Filmes e Grandes Estúdios",016 - Runtime TV e Filmes
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="01 Filmes e Grandes Estúdios",017 - Sony One Cinema
+https://030a58d4abe245219e65752f7f51ad25.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-br_SonyOneCinema/playlist.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="01 Filmes e Grandes Estúdios",018 - Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="01 Filmes e Grandes Estúdios",019 - Sony One Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
-# ===== 07 | Natureza e Viagens =====
-#EXTINF:-1 tvg-chno="35" tvg-name="Stingray Naturescape" group-title="07 | Natureza e Viagens",Stingray Naturescape
+#EXTINF:-1 tvg-chno="20" group-title="01 Filmes e Grandes Estúdios",020 - Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="01 Filmes e Grandes Estúdios",021 - Spark TV Luz E Amor
+https://f4e8bda53ab64cbfb9522fc00b413a8f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_SparkTVLuzEAmor/playlist.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="01 Filmes e Grandes Estúdios",022 - Western Bound em Português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16614
+#EXTINF:-1 tvg-chno="23" group-title="02 Ficção, Fantasia, Geek e Heróis",023 - Andromeda
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
+#EXTINF:-1 tvg-chno="24" group-title="02 Ficção, Fantasia, Geek e Heróis",024 - Canal L!ke
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="02 Ficção, Fantasia, Geek e Heróis",025 - Fatos Desconhecidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
+#EXTINF:-1 tvg-chno="26" group-title="02 Ficção, Fantasia, Geek e Heróis",026 - IA Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
+#EXTINF:-1 tvg-chno="27" group-title="02 Ficção, Fantasia, Geek e Heróis",027 - Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="28" group-title="02 Ficção, Fantasia, Geek e Heróis",028 - Sato +
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+#EXTINF:-1 tvg-chno="29" group-title="02 Ficção, Fantasia, Geek e Heróis",029 - Space Today
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+#EXTINF:-1 tvg-chno="30" group-title="02 Ficção, Fantasia, Geek e Heróis",030 - Ubisoft TV
+https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
+#EXTINF:-1 tvg-chno="31" group-title="03 Séries, Sitcoms e Clássicos",031 - Amor de Aluguel by Noverama
+https://pb-fl34n9hbwzj2v.akamaized.net/AmorDeAluguel.m3u8
+#EXTINF:-1 tvg-chno="32" group-title="03 Séries, Sitcoms e Clássicos",032 - Malhação Fast
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-chno="33" group-title="03 Séries, Sitcoms e Clássicos",033 - Mr Bean Live Action
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
+#EXTINF:-1 tvg-chno="34" group-title="03 Séries, Sitcoms e Clássicos",034 - Novela: A Terra Prometida
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
+#EXTINF:-1 tvg-chno="35" group-title="03 Séries, Sitcoms e Clássicos",035 - Novelisima em Português
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1 tvg-chno="36" group-title="03 Séries, Sitcoms e Clássicos",036 - O Homem que Veio do Céu
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992533&ads.xumo_streamId=99992533&ads.channelId=99992533
+#EXTINF:-1 tvg-chno="37" group-title="03 Séries, Sitcoms e Clássicos",037 - Reis
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1 tvg-chno="38" group-title="03 Séries, Sitcoms e Clássicos",038 - TV Series 1 As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-chno="39" group-title="04 Animação e Anime",039 - Inspetor Bugiganga
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
+#EXTINF:-1 tvg-chno="40" group-title="04 Animação e Anime",040 - Mr. Bean Animated
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+#EXTINF:-1 tvg-chno="41" group-title="04 Animação e Anime",041 - Sonic
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
+#EXTINF:-1 tvg-chno="42" group-title="05 Ciência, História, Corpo e Conhecimento",042 - AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="05 Ciência, História, Corpo e Conhecimento",043 - Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="05 Ciência, História, Corpo e Conhecimento",044 - Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="05 Ciência, História, Corpo e Conhecimento",045 - Canal Futura
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="05 Ciência, História, Corpo e Conhecimento",046 - Cultne.tv
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="05 Ciência, História, Corpo e Conhecimento",047 - Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="05 Ciência, História, Corpo e Conhecimento",048 - Ideias Incríveis
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="05 Ciência, História, Corpo e Conhecimento",049 - ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="05 Ciência, História, Corpo e Conhecimento",050 - Love Nature
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876007/hls/master.m3u8?ads.xumo_channelId=88876007
+#EXTINF:-1 tvg-chno="51" group-title="05 Ciência, História, Corpo e Conhecimento",051 - Manual do Mundo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15883&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5
+#EXTINF:-1 tvg-chno="52" group-title="05 Ciência, História, Corpo e Conhecimento",052 - Mark Rober TV
+https://pb-slu3sr0tscoho.akamaized.net/MarkRoberTV.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="05 Ciência, História, Corpo e Conhecimento",053 - New Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-chno="54" group-title="05 Ciência, História, Corpo e Conhecimento",054 - Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="05 Ciência, História, Corpo e Conhecimento",055 - Royalworld — Nobreza e Dinastias
+https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" group-title="05 Ciência, História, Corpo e Conhecimento",056 - Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-name="Tastemade Viagem" group-title="07 | Natureza e Viagens",Tastemade Viagem
+#EXTINF:-1 tvg-chno="57" group-title="05 Ciência, História, Corpo e Conhecimento",057 - TV BRICS Portuguese
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="05 Ciência, História, Corpo e Conhecimento",058 - TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-chno="59" group-title="05 Ciência, História, Corpo e Conhecimento",059 - TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-chno="60" group-title="05 Ciência, História, Corpo e Conhecimento",060 - TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="05 Ciência, História, Corpo e Conhecimento",061 - UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-chno="62" group-title="05 Ciência, História, Corpo e Conhecimento",062 - Weather Spy
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="63" group-title="05 Ciência, História, Corpo e Conhecimento",063 - Wild Earth
+https://cc-0573ljsgymaix.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="64" group-title="06 Natureza, Viagens e Pets",064 - Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-chno="65" group-title="06 Natureza, Viagens e Pets",065 - Tastemade Viagem
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-name="Vambora Channel" group-title="07 | Natureza e Viagens",Vambora Channel
+#EXTINF:-1 tvg-chno="66" group-title="06 Natureza, Viagens e Pets",066 - The Pet Collective
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="67" group-title="06 Natureza, Viagens e Pets",067 - Travel Box Brazil
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="06 Natureza, Viagens e Pets",068 - Travel Plus
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16313&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
+#EXTINF:-1 tvg-chno="69" group-title="06 Natureza, Viagens e Pets",069 - TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="06 Natureza, Viagens e Pets",070 - Vambora Channel
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:-1 tvg-chno="71" group-title="06 Natureza, Viagens e Pets",071 - Zenlife by Stingray
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+#EXTINF:-1 tvg-chno="72" group-title="07 Humor, Variedades e Entretenimento",072 - Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="07 Humor, Variedades e Entretenimento",073 - Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="74" group-title="07 Humor, Variedades e Entretenimento",074 - Canal do Artesanato
+https://ogc-cda-tcl-roku-syndication.otteravision.com/ogc/cda/cda.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="07 Humor, Variedades e Entretenimento",075 - Caras TV
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="07 Humor, Variedades e Entretenimento",076 - Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-chno="77" group-title="07 Humor, Variedades e Entretenimento",077 - Conecta Mais TV
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 tvg-chno="78" group-title="07 Humor, Variedades e Entretenimento",078 - DiaTV
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/DiaEstudio/Dia_TV_BR/Dia_TV.m3u8
+#EXTINF:-1 tvg-chno="79" group-title="07 Humor, Variedades e Entretenimento",079 - EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-chno="80" group-title="07 Humor, Variedades e Entretenimento",080 - FailArmy
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="81" group-title="07 Humor, Variedades e Entretenimento",081 - Flow TV
+https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
+#EXTINF:-1 tvg-chno="82" group-title="07 Humor, Variedades e Entretenimento",082 - Homeful
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&ads.xumo_streamId=99992530
+#EXTINF:-1 tvg-chno="83" group-title="07 Humor, Variedades e Entretenimento",083 - Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="84" group-title="07 Humor, Variedades e Entretenimento",084 - Luxe Fireplace Vibes
+https://cc-6cs96sqhen1kk.akamaized.net/mt/samsungtv/973/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="85" group-title="07 Humor, Variedades e Entretenimento",085 - NTV
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="07 Humor, Variedades e Entretenimento",086 - People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="07 Humor, Variedades e Entretenimento",087 - PlayTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5
+#EXTINF:-1 tvg-chno="88" group-title="07 Humor, Variedades e Entretenimento",088 - Podpah TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16979&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
+#EXTINF:-1 tvg-chno="89" group-title="07 Humor, Variedades e Entretenimento",089 - Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="90" group-title="07 Humor, Variedades e Entretenimento",090 - Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-chno="91" group-title="07 Humor, Variedades e Entretenimento",091 - Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-chno="92" group-title="07 Humor, Variedades e Entretenimento",092 - SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-chno="93" group-title="07 Humor, Variedades e Entretenimento",093 - Superfinanças
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17293&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
+#EXTINF:-1 tvg-chno="94" group-title="07 Humor, Variedades e Entretenimento",094 - TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-chno="95" group-title="07 Humor, Variedades e Entretenimento",095 - TV Futuro
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-chno="96" group-title="07 Humor, Variedades e Entretenimento",096 - TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-chno="97" group-title="07 Humor, Variedades e Entretenimento",097 - TV Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-chno="98" group-title="07 Humor, Variedades e Entretenimento",098 - TV São Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-chno="99" group-title="07 Humor, Variedades e Entretenimento",099 - TV Viçosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="100" group-title="07 Humor, Variedades e Entretenimento",100 - TVitapé
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-chno="101" group-title="07 Humor, Variedades e Entretenimento",101 - TVLatinaSat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-chno="102" group-title="07 Humor, Variedades e Entretenimento",102 - UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="07 Humor, Variedades e Entretenimento",103 - Veja Mais
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
+#EXTINF:-1 tvg-chno="104" group-title="07 Humor, Variedades e Entretenimento",104 - WhE Play
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=weplay&channel_id=newid_041&mpf=ddd48854-39af1962-1ca28e49&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fdf51ea3-9eccf7b4-731432bf-e9bc6d18
