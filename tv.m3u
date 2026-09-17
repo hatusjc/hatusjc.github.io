@@ -1,0 +1,35 @@
+#EXTM3U
+# BR_RAPIDA_v1
+# Foco: português brasileiro, documentários/investigação e filmes/comédia.
+# Fontes: canais FAST/gratuitos públicos listados em repositórios públicos.
+# Observação: a disponibilidade pode variar por região e ao longo do tempo.
+
+# --- DOCUMENTÁRIOS / INVESTIGAÇÃO ---
+
+#EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Documentários e Investigação",Detetives Médicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentários e Investigação",Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCuriosidade.us" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Documentários e Investigação",Pluto TV Curiosidade
+https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="Documentários e Investigação",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+
+# --- FILMES / AÇÃO / AVENTURA ---
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Filmes",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+
+# --- COMÉDIA ---
+
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Comédia",Pluto TV Comédia
+https://jmp2.uk/plu-6001f3018502100007f528ac.m3u8
