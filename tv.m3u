@@ -3,77 +3,80 @@
 # PT-BR; foco em velocidade; testado a partir de Portugal em 2026-09-17.
 # Sem streams Pluto/jmp2 problemáticos.
 
-# ===== GRANDES ESTÚDIOS =====
-#EXTINF:-1 group-title="Grandes Estúdios",Filmes
-Sony One Cinema|https://3d51ba4c6dea4941b5e1ca10a471504c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios",Filmes
-Sony One Clássicos|https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios",Filmes
-Sony One Emoções|https://1bc1c9c406cd46579d83a6c41b2036ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneEmocoes/playlist.m3u8
-#EXTINF:-1 group-title="Grandes Estúdios",Filmes
-MovieSphere Brasil - Lionsgate|https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-# ===== FILMES =====
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Runtime Ação|https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Adrenalina Pura TV|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c44c88d5bb1ba466089d9/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Ação Total TV|https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Runtime TV e Filmes|https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Filmelier TV|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-CINDIE Lite|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Ação e Aventura
-Grjngo Faroeste|https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Comédia e Família
-Runtime Comédia|https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="Filmes",Comédia e Família
-Runtime Família|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 group-title="Filmes",Romance e Drama
-Runtime Romance|https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="Filmes",Romance e Drama
-Filmelier TV Paixão|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7ca4eafcd6d46528c96254bc06836f5/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Romance e Drama
-Filmelier TV Esperança|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d8c82ef3962a4866bbff81317936d8cf/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Romance e Drama
-Filmelier TV Vida Real|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/565cfbea4dd84fe9af37cf67e9036de7/playlist.m3u8
-#EXTINF:-1 group-title="Filmes",Romance e Drama
-Romance Channel|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-# ===== HERÓIS =====
-#EXTINF:-1 group-title="Heróis",Ficção
-Fantasia|Z Nation PT-BR|https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884609
-#EXTINF:-1 group-title="Heróis",Ficção
-Fantasia|Andromeda|https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
-#EXTINF:-1 group-title="Heróis",Ficção
-Fantasia|Runtime CinEspanto|https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="Heróis",Ficção
-Fantasia|Medo TV|https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Heróis",Ficção
-Fantasia|Adrenalina Pura Halloween|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
-# ===== DOCUMENTÁRIOS =====
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Manual do Mundo|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cb18a3c3c72d4dd098bd37ee45124cfe/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Curta! Humanidades|https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Curta! Música & Artes|https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Space Today|https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Cultne.tv|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/02b9186bdf434d889ccb380a153ed7ba/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-Canal Educação|https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Documentários",Ciência e Cultura
-TV Cultura|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d6701eb61814b0687c392a010ac0db7/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",Natureza e Viagem
-Tastemade Viagem|https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5d9c1ecd70034b688282e25cad84a384/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",Natureza e Viagem
-Nature Time|https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
-#EXTINF:-1 group-title="Documentários",Natureza e Viagem
-Travel Plus|https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8
-#EXTINF:-1 group-title="Documentários",Natureza e Viagem
-TV da Pesca|https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
-#EXTINF:-1 group-title="Documentários",Natureza e Viagem
-Vambora Channel|https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
+# ===== GRANDES ESTÚDIOS | FILMES =====
+#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Cinema
+https://3d51ba4c6dea4941b5e1ca10a471504c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneCinema/playlist.m3u8
+#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Clássicos
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Grandes Estúdios | Filmes",Sony One Emoções
+https://1bc1c9c406cd46579d83a6c41b2036ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1 group-title="Grandes Estúdios | Filmes",MovieSphere Brasil - Lionsgate
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
+# ===== FILMES | AÇÃO E AVENTURA =====
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Adrenalina Pura TV
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d53d83b32f1c44c88d5bb1ba466089d9/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Ação Total TV
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Runtime TV e Filmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Filmelier TV
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/59df292b969c470fb6201c8c99dc02de/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",CINDIE Lite
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Ação e Aventura",Grjngo Faroeste
+https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8
+# ===== FILMES | COMÉDIA E FAMÍLIA =====
+#EXTINF:-1 group-title="Filmes | Comédia e Família",Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 group-title="Filmes | Comédia e Família",Runtime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+# ===== FILMES | ROMANCE E DRAMA =====
+#EXTINF:-1 group-title="Filmes | Romance e Drama",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Paixão
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a7ca4eafcd6d46528c96254bc06836f5/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Esperança
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d8c82ef3962a4866bbff81317936d8cf/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Romance e Drama",Filmelier TV Vida Real
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/565cfbea4dd84fe9af37cf67e9036de7/playlist.m3u8
+#EXTINF:-1 group-title="Filmes | Romance e Drama",Romance Channel
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
+# ===== HERÓIS | FICÇÃO | FANTASIA =====
+#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Z Nation PT-BR
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884609
+#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Andromeda
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884607
+#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Runtime CinEspanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Medo TV
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Heróis | Ficção | Fantasia",Adrenalina Pura Halloween
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/61d31f5ea0524ab392ddf5c3ea37d678/playlist.m3u8
+# ===== DOCUMENTÁRIOS | CIÊNCIA E CULTURA =====
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Manual do Mundo
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/cb18a3c3c72d4dd098bd37ee45124cfe/playlist.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Curta! Humanidades
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Curta! Música & Artes
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Space Today
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Cultne.tv
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/02b9186bdf434d889ccb380a153ed7ba/playlist.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Documentários | Ciência e Cultura",TV Cultura
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d6701eb61814b0687c392a010ac0db7/playlist.m3u8
+# ===== DOCUMENTÁRIOS | NATUREZA E VIAGEM =====
+#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Tastemade Viagem
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5d9c1ecd70034b688282e25cad84a384/playlist.m3u8
+#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Nature Time
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/684a4d4563824ac2ab2a93c4ddd9d4ed/playlist.m3u8
+#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Travel Plus
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8
+#EXTINF:-1 group-title="Documentários | Natureza e Viagem",TV da Pesca
+https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
+#EXTINF:-1 group-title="Documentários | Natureza e Viagem",Vambora Channel
+https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
