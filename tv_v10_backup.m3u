@@ -1,6 +1,6 @@
 #EXTM3U
-# BR_RAPIDA_v11
-# PT-BR | lista pública | faroeste antigo e novelas removidos | fontes autorizadas
+# BR_RAPIDA_v10
+# PT-BR | lista pública | faroeste antigo e novelas removidos
 # Atualizado: 2026-09-17
 #EXTINF:-1 tvg-chno="1" group-title="01 Filmes e Grandes Estúdios",001 - Charlie Silent Movies
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
@@ -255,9 +255,3 @@ http://dnsdezpila.xyz/live/56126132/27146367/9543009.ts
 http://dnsdezpila.xyz/live/56126132/27146367/9543026.ts
 #EXTINF:-1 tvg-chno="124" group-title="12 Cinema Premium | HBO e Estúdios",124 - Universal Premiere
 http://dnsdezpila.xyz/live/56126132/27146367/9543029.ts
-#EXTINF:-1 tvg-chno="125" group-title="13 Netflix 24/7 | Autorizado",125 - 100 Humans 24/7
-http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252462
-#EXTINF:-1 tvg-chno="126" group-title="13 Netflix 24/7 | Autorizado",126 - 13 Reasons Why 24/7
-http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252463
-#EXTINF:-1 tvg-chno="127" group-title="13 Netflix 24/7 | Autorizado",127 - 72 Dangerous Animals Asia 24/7
-http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252468
