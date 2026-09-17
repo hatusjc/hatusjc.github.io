@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://hatusjc.github.io/epg.xml"
-# BR_RAPIDA_v12
+#EXTM3U
+# BR_RAPIDA_v11
 # PT-BR | lista pública | faroeste antigo e novelas removidos | fontes autorizadas
 # Atualizado: 2026-09-17
 #EXTINF:-1 tvg-chno="1" group-title="01 Filmes e Grandes Estúdios",001 - Charlie Silent Movies
@@ -76,7 +76,7 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-chno="37" group-title="05 Ciência, História, Corpo e Conhecimento",037 - Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-chno="38" group-title="05 Ciência, História, Corpo e Conhecimento",038 - Canal Futura
+#EXTINF:-1 tvg-chno="38" group-title="05 Ciência, História, Corpo e Conhecimento",038 - Canal Futura
 http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="05 Ciência, História, Corpo e Conhecimento",039 - Cultne.tv
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
@@ -120,7 +120,7 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/TastemadeTravel.m3u8
 #EXTINF:-1 tvg-chno="59" group-title="06 Natureza, Viagens e Pets",059 - The Pet Collective
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-chno="60" group-title="06 Natureza, Viagens e Pets",060 - Travel Box Brazil
+#EXTINF:-1 tvg-chno="60" group-title="06 Natureza, Viagens e Pets",060 - Travel Box Brazil
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1 tvg-chno="61" group-title="06 Natureza, Viagens e Pets",061 - Travel Plus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16313&avod=1&coppa=0&td=6&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_os=html5&gender=not_specified&yob=0&livestream=1&custom_param_1=tv&custom_param_4=lg_channels&custom_param_5=html5&keep_scte=1
@@ -201,59 +201,59 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=weplay&c
 http://200.115.120.1:8000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-chno="99" group-title="08 Heróis | Autorizados",099 - Cine Marvel
 http://200.115.120.1:8000/play/ca038/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-chno="100" group-title="09 Discovery | Documentários",100 - Discovery Home & Health
+#EXTINF:-1 tvg-chno="100" group-title="09 Discovery | Documentários",100 - Discovery Home & Health
 http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
 
 # v8 final authorized additions - mrcanelas/iptv-playlist
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-chno="101" group-title="09 Discovery | Documentários",101 - Discovery Channel
+#EXTINF:-1 tvg-chno="101" group-title="09 Discovery | Documentários",101 - Discovery Channel
 http://dnsdezpila.xyz/live/56126132/27146367/3979509.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-chno="102" group-title="09 Discovery | Documentários",102 - Discovery Science
+#EXTINF:-1 tvg-chno="102" group-title="09 Discovery | Documentários",102 - Discovery Science
 http://dnsdezpila.xyz/live/56126132/27146367/3979515.ts
-#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-chno="103" group-title="09 Discovery | Documentários",103 - Discovery Theater
+#EXTINF:-1 tvg-chno="103" group-title="09 Discovery | Documentários",103 - Discovery Theater
 http://dnsdezpila.xyz/live/56126132/27146367/3979518.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-chno="104" group-title="09 Discovery | Documentários",104 - Discovery Turbo
+#EXTINF:-1 tvg-chno="104" group-title="09 Discovery | Documentários",104 - Discovery Turbo
 http://dnsdezpila.xyz/live/56126132/27146367/3979521.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-chno="105" group-title="09 Discovery | Documentários",105 - Discovery World
+#EXTINF:-1 tvg-chno="105" group-title="09 Discovery | Documentários",105 - Discovery World
 http://dnsdezpila.xyz/live/56126132/27146367/3979524.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-chno="106" group-title="10 Natureza e Lifestyle | Premium",106 - Animal Planet
+#EXTINF:-1 tvg-chno="106" group-title="10 Natureza e Lifestyle | Premium",106 - Animal Planet
 http://dnsdezpila.xyz/live/56126132/27146367/3979401.ts
-#EXTINF:-1 tvg-id="HGTV.br" tvg-chno="107" group-title="10 Natureza e Lifestyle | Premium",107 - HGTV
+#EXTINF:-1 tvg-chno="107" group-title="10 Natureza e Lifestyle | Premium",107 - HGTV
 http://dnsdezpila.xyz/live/56126132/27146367/3979413.ts
-#EXTINF:-1 tvg-id="History.br" tvg-chno="108" group-title="11 História | Premium",108 - History
+#EXTINF:-1 tvg-chno="108" group-title="11 História | Premium",108 - History
 http://dnsdezpila.xyz/live/56126132/27146367/3979415.ts
-#EXTINF:-1 tvg-id="History2.br" tvg-chno="109" group-title="11 História | Premium",109 - History 2
+#EXTINF:-1 tvg-chno="109" group-title="11 História | Premium",109 - History 2
 http://dnsdezpila.xyz/live/56126132/27146367/6869246.ts
 
 # v9 premium cinema additions - mrcanelas/iptv-playlist (authorized)
-#EXTINF:-1 tvg-id="HBO.br" tvg-chno="110" group-title="12 Cinema Premium | HBO e Estúdios",110 - HBO
+#EXTINF:-1 tvg-chno="110" group-title="12 Cinema Premium | HBO e Estúdios",110 - HBO
 http://dnsdezpila.xyz/live/56126132/27146367/9542930.ts
-#EXTINF:-1 tvg-id="HBO2.br" tvg-chno="111" group-title="12 Cinema Premium | HBO e Estúdios",111 - HBO 2
+#EXTINF:-1 tvg-chno="111" group-title="12 Cinema Premium | HBO e Estúdios",111 - HBO 2
 http://dnsdezpila.xyz/live/56126132/27146367/9542934.ts
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-chno="112" group-title="12 Cinema Premium | HBO e Estúdios",112 - HBO Family
+#EXTINF:-1 tvg-chno="112" group-title="12 Cinema Premium | HBO e Estúdios",112 - HBO Family
 http://dnsdezpila.xyz/live/56126132/27146367/9542938.ts
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-chno="113" group-title="12 Cinema Premium | HBO e Estúdios",113 - HBO Mundi
+#EXTINF:-1 tvg-chno="113" group-title="12 Cinema Premium | HBO e Estúdios",113 - HBO Mundi
 http://dnsdezpila.xyz/live/56126132/27146367/9542942.ts
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-chno="114" group-title="12 Cinema Premium | HBO e Estúdios",114 - HBO Pop
+#EXTINF:-1 tvg-chno="114" group-title="12 Cinema Premium | HBO e Estúdios",114 - HBO Pop
 http://dnsdezpila.xyz/live/56126132/27146367/9542946.ts
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-chno="115" group-title="12 Cinema Premium | HBO e Estúdios",115 - HBO Signature
+#EXTINF:-1 tvg-chno="115" group-title="12 Cinema Premium | HBO e Estúdios",115 - HBO Signature
 http://dnsdezpila.xyz/live/56126132/27146367/9542951.ts
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-chno="116" group-title="12 Cinema Premium | HBO e Estúdios",116 - HBO Xtreme
+#EXTINF:-1 tvg-chno="116" group-title="12 Cinema Premium | HBO e Estúdios",116 - HBO Xtreme
 http://dnsdezpila.xyz/live/56126132/27146367/9542955.ts
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-chno="117" group-title="12 Cinema Premium | HBO e Estúdios",117 - HBO Plus
+#EXTINF:-1 tvg-chno="117" group-title="12 Cinema Premium | HBO e Estúdios",117 - HBO Plus
 http://dnsdezpila.xyz/live/56126132/27146367/9542958.ts
-#EXTINF:-1 tvg-id="AMC.br" tvg-chno="118" group-title="12 Cinema Premium | HBO e Estúdios",118 - AMC
+#EXTINF:-1 tvg-chno="118" group-title="12 Cinema Premium | HBO e Estúdios",118 - AMC
 http://dnsdezpila.xyz/live/56126132/27146367/9542967.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-chno="119" group-title="12 Cinema Premium | HBO e Estúdios",119 - Cinemax
+#EXTINF:-1 tvg-chno="119" group-title="12 Cinema Premium | HBO e Estúdios",119 - Cinemax
 http://dnsdezpila.xyz/live/56126132/27146367/9542976.ts
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-chno="120" group-title="12 Cinema Premium | HBO e Estúdios",120 - Sony Channel
+#EXTINF:-1 tvg-chno="120" group-title="12 Cinema Premium | HBO e Estúdios",120 - Sony Channel
 http://dnsdezpila.xyz/live/56126132/27146367/9542989.ts
-#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-chno="121" group-title="12 Cinema Premium | HBO e Estúdios",121 - Studio Universal
+#EXTINF:-1 tvg-chno="121" group-title="12 Cinema Premium | HBO e Estúdios",121 - Studio Universal
 http://dnsdezpila.xyz/live/56126132/27146367/9542997.ts
-#EXTINF:-1 tvg-id="WarnerTV.br" tvg-chno="122" group-title="12 Cinema Premium | HBO e Estúdios",122 - Warner TV
+#EXTINF:-1 tvg-chno="122" group-title="12 Cinema Premium | HBO e Estúdios",122 - Warner TV
 http://dnsdezpila.xyz/live/56126132/27146367/9543009.ts
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-chno="123" group-title="12 Cinema Premium | HBO e Estúdios",123 - Universal TV
+#EXTINF:-1 tvg-chno="123" group-title="12 Cinema Premium | HBO e Estúdios",123 - Universal TV
 http://dnsdezpila.xyz/live/56126132/27146367/9543026.ts
-#EXTINF:-1 tvg-id="UniversalPremiere.br" tvg-chno="124" group-title="12 Cinema Premium | HBO e Estúdios",124 - Universal Premiere
+#EXTINF:-1 tvg-chno="124" group-title="12 Cinema Premium | HBO e Estúdios",124 - Universal Premiere
 http://dnsdezpila.xyz/live/56126132/27146367/9543029.ts
 #EXTINF:-1 tvg-chno="125" group-title="13 Netflix 24/7 | Autorizado",125 - 100 Humans 24/7
 http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252462
